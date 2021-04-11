@@ -1,0 +1,15 @@
+{
+  "short_name": "Covid 19 Tracking",
+  "name": "Covid 19 Tracking",
+  "icons": [
+    {
+      "src": "ghost.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
